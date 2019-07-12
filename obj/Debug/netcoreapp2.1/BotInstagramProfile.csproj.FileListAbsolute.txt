@@ -1,0 +1,11 @@
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/bin/Debug/netcoreapp2.1/BotInstagramProfile.deps.json
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/bin/Debug/netcoreapp2.1/BotInstagramProfile.runtimeconfig.json
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/bin/Debug/netcoreapp2.1/BotInstagramProfile.runtimeconfig.dev.json
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/bin/Debug/netcoreapp2.1/BotInstagramProfile.dll
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/bin/Debug/netcoreapp2.1/BotInstagramProfile.pdb
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/obj/Debug/netcoreapp2.1/BotInstagramProfile.csprojAssemblyReference.cache
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/obj/Debug/netcoreapp2.1/BotInstagramProfile.csproj.CoreCompileInputs.cache
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/obj/Debug/netcoreapp2.1/BotInstagramProfile.AssemblyInfoInputs.cache
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/obj/Debug/netcoreapp2.1/BotInstagramProfile.AssemblyInfo.cs
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/obj/Debug/netcoreapp2.1/BotInstagramProfile.dll
+/Users/GuiGolfetto/Desktop/study/cursoWebCrawler/BotInstagramProfile/obj/Debug/netcoreapp2.1/BotInstagramProfile.pdb
